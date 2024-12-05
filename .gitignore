@@ -1,0 +1,6 @@
+venv/
+data/
+qdrant/
+__pycache__/
+smallSampleTestFolder/
+.DS_Store
